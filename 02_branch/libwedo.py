@@ -6,7 +6,7 @@ class MathOperate:
         self.b = b
     
     def sum(self):
-        result = None
+        result = self.a + self.b
         return result
     
     def subtract(self):

@@ -10,6 +10,7 @@ class MathOperate:
         return result
     
     def subtract(self):
+        result = None
         return None
     
     def multipy(self):
